@@ -5,11 +5,13 @@ MAIS É ALTAMENTE RECOMENDÁVEL VOCÊ ATUALIZAR.
 ------------------------------------------------
 O QUE TEMOS DE NOVO NESTA VERSÃO ?
 
-1 - Foi adicionado a opção para listagem de impressoras na rede.
-2 - Após você gerar o código desejado, que abre no navegador, 
-você também estará gerando um arquivo em formato PDF na pasta padrão
-do programa (Codigo_MaxiPOS)
+1 - Adicionado a função PASSWD (Imprimir Senhas)
+2 - Adicionado instalador de programas necessarios
+3 - Adicionado Geração de codigos QR
+4 - Adicionado icone no HTML
+5 - Corrigido o erro de acentuação no html
+6 - Corrigido o tamanho do Qrcode e seus pixels
 ------------------------------------------------
 Em breve chegará mais novidades. Um abraço e até a próxima!!!
 
-By: Nilsonlinux
+By: Nilsonlinux & Figuerdo
